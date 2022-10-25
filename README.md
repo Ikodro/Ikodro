@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ikodro
+- 👋 Hi, I’m @4arms4luvn
 - 👀 I’m interested in ... robotics, programming, game development, 3d Art, story telling
 - 🌱 I’m currently learning ...C#, Unity, Programming Bootcamp
 - 💞️ I’m looking to collaborate on ...Game Projects, Art
